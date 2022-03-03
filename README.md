@@ -20,3 +20,4 @@ Using Dash framwork make dash board that give ability to end user to make EDA in
 - get frequancy of injury type for each type of activity
 - get frequancy of primary cause  of activity for each Observation related to
 - relation between injury risk, Divition and Incident type
+sdfjvfkdflsd
